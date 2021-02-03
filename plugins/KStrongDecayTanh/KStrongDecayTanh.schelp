@@ -1,0 +1,26 @@
+class:: KStrongDecayTanh
+summary:: KS sim limited
+related:: TODO
+categories:: UGens>TODO
+
+description::
+
+KS sim limited
+
+
+classmethods::
+
+method::ar, kr
+
+argument::TODO
+
+argument::TODO
+
+
+examples::
+
+code::
+
+{ KStrongDecayTanh.ar(/* TODO */) }.play
+
+::
